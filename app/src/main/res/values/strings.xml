@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ST10444951(Assignment 2)</string>
+    <string name="hi_there_welcome_to_milo_your_personal_virtual_pet">Hi there welocome to Milo, Your personal virtual pet</string>
+    <string name="eating" />
+    <string name="play_with_me" />
+    <string name="clean_nice_and_clean" />
+    <string name="play" />
+    <string name="clean" />
+    <string name="feed">feed</string>
+    <string name="playing">play</string>
+    <string name="todo">tODO</string>
+    <string name="Clean">Clean</string>
+    <string name="cleaning">clean</string>
+    <string name="feeding">Feed</string>
+    <string name="dogplaying">play</string>
+</resources>
